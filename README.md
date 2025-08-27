@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Presley! <br>A few important things about me are;<br>-IT Support Specialist<br>-Web/Game Developer<br>-New Media Interactive Development Student<br>-UI/UX Designer<br>-Audio Engineer, and Music Producer<br><br>I love all things interactive media and I am always learning new frameworks and tools to expand my knowledge as a developer in my early career!!<br>-Find my projects on my website: https://portfolio-teal-five-bvma5110ar.vercel.app
+I'm Presley! <br>A few important things about me are;<br>-Web/Game Developer<br>-New Media Interactive Development Student<br>-UI/UX Designer<br>-Audio Engineer, and Music Producer<br><br>I love all things interactive media and I am always learning new frameworks and tools to expand my knowledge as a developer in my early career!!<br>-Find my projects on my website: https://portfolio-teal-five-bvma5110ar.vercel.app
 
 
 ## 🌐 Socials:
